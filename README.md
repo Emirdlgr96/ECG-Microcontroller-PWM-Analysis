@@ -5,7 +5,7 @@ Real-time ECG signal processing simulation using C language, involving PWM contr
 ##  Project Overview
 This project simulates a microcontroller-based system designed for basic vital sign monitoring. It reads simulated ECG data, determines heart rate, and controls an output peripheral (PWM) based on signal analysis. Implemented using **C Language** principles (GPIO and PWM logic).
 
-## 🛠️ Key Features
+##  Key Features
 * **Data Parsing:** Reads and processes time-series data from a CSV file.
 * **PWM Control Logic:** Calculates and adjusts Pulse Width Modulation values based on the simulated heart rate (BPM).
 * **Output Logging:** Utilizes command-line redirection for verifiable data analysis.
